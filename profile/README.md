@@ -11,7 +11,7 @@ This organization brings together the main repositories used to develop, build, 
 
 ## Contributing to BharatSim
 
-- Write to us at bharatsim@ashoka.edu.in
+- Write to us at bharatsim@ashoka.edu.in.
 
 #### **Have you managed to fix a bug or add a new feature?**
 - Open a new GitHub pull request if you think your addition is worth being included in the relevant repository. If this contribution concerns the documentation, head to the documentation repository.
@@ -20,7 +20,7 @@ This organization brings together the main repositories used to develop, build, 
 
 ## Support
 
-#### **Do you think you found a bug in BharatSim?**
+#### **Do you think you've found a bug in BharatSim?**
 
 * **Ensure that this bug was not already reported** by searching on GitHub in [BharatSim issues](https://github.com/bharatsim/bharatSim-public/issues).
 * If you're unable to find an open issue addressing your problem, open a new one in the corresponding repository. Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or a **test case** demonstrating the expected behavior that is not occurring.
