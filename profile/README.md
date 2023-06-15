@@ -5,8 +5,11 @@
 
 This organization brings together the main repositories used to develop, build, test, and use BharatSim:
 
-- **[bharatsim-public](https://github.com/bharatsim/bharatsim-public)**: contains the source-code for the BharatSim project. A documentation on how to download and use BharatSim is available [here](https://bharatsim.readthedocs.io). This repository also serves as a hub for raising issues about using BharatSim. 
--  **[bharatsim.github.io](https://github.com/bharatsim/bharatsim.github.io)**: contains the sources of BharatSim's website and serves as a hub for raising issues about BharatSim's website and documentation.
+- **[BharatSim](https://github.com/bharatsim/BharatSim)** contains the source-code for the BharatSim simulation engine. Documentation on how to download and use BharatSim is available [here](https://bharatsim.readthedocs.io). This repository also serves as a hub for raising issues about using the simulation engine.
+- **[BharatSim-Visualisation](https://github.com/bharatsim/BharatSim-Visualisation)** contains the source-code for the BharatSim visualisation engine. This repository also serves as a hub for raising issues about using the visualisation engine.
+- **[documentation](https://github.com/bharatsim/documentation)** contains the source-code for the BharatSim documentation, hosted on ReadTheDocs [here](https://bharatsim.readthedocs.io). If you wish to contribute to the documentation, please read the _Contributing_ section of the [`README.md`](https://github.com/bharatsim/documentation#readme) file. 
+-  **[bharatsim.github.io](https://github.com/bharatsim/bharatsim.github.io)** contains the sources of the BharatSim [website](https://bharatsim.ashoka.edu.in).
+-  **[bharatsim-showcase](https://github.com/bharatsim/bharatsim-showcase)** contains the source-code for models described in the paper _BharatSim: An agent-based modelling framework for India_. 
 
 
 ## Contributing to BharatSim
@@ -14,7 +17,7 @@ This organization brings together the main repositories used to develop, build, 
 - Write to us at bharatsim@ashoka.edu.in.
 
 #### **Have you managed to fix a bug or add a new feature?**
-- Open a new GitHub pull request if you think your addition is worth being included in the relevant repository. If this contribution concerns the documentation, head to the documentation repository.
+- Open a new GitHub pull request if you think your addition is worth being included in the relevant repository. If this contribution concerns the documentation, head to the [documentation repository](https://github.com/bharatsim/documentation).
 - Ensure that the pull request description clearly describes the problem and solution or the new addition. Include the relevant issue number if applicable.
 
 
